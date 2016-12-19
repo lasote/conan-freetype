@@ -31,7 +31,7 @@ If you handle multiple dependencies in your project is better to add a *conanfil
     freetype/2.0.3@lasote/stable
 
     [options]
-    freetype:shared=true # false
+    freetype:shared=True # False
     
     [generators]
     txt
